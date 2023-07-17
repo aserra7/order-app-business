@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.opacity-hover:hover{
+    opacity: 0.7;
+    transition: opacity 0.3s ease-in-out
+}
+
+.scrollbar-hide::-webkit-scrollbar:vertical {display: none}
+
